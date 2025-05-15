@@ -1,6 +1,6 @@
 First AI created!
 Using Q-learning/reinforcement learning
-I thought it was a nice project and simple, found myself into an dumb ai who only looked for winning but that doesnt stop the other player from winning either
+I thought it was a nice project and simple, found myself into an dumb ai who only looked for winning and that doesn't stop the other player from winning either
 Solution was on fixing the reward method, ties are better than losing.
 
 Also it was crucial to record the prev-turns, to find out what moves have a better future result, for example its usually better to play on the center, or to find way to do a fork
